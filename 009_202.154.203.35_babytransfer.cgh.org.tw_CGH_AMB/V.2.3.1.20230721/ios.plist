@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://firebasestorage.googleapis.com/v0/b/qocaatm-9c794.appspot.com/o/ATM%2F009_202.154.203.35_babytransfer.cgh.org.tw_CGH_AMB%2FV.2.3.1.20230721%2FQOCA_QTMED.ipa?alt=media&amp;token=3e6e772b-03a4-45a9-bc4a-8233e35a8f0d</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.quanta.bu12.qocaatm</string>
+				<key>bundle-version</key>
+				<string>2.3.1</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>QOCA ATM</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
