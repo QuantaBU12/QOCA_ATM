@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/QuantaBU12/QOCA_ATM/raw/main/001_175.99.185.67_qoca.chimei.org.tw_CHIMEI/V.2.3.1.20230721/QOCA_QTMED.ipa</string>
+					<string>https://github.com/QuantaBU12/QOCA_ATM/raw/main/001_175.99.185.67_qoca.chimei.org.tw_CHIMEI/V.2.4.0.20230919/QOCA_QTMED.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -19,7 +19,7 @@
 				<key>bundle-identifier</key>
 				<string>com.quanta.bu12.qocaatm</string>
 				<key>bundle-version</key>
-				<string>2.3.1</string>
+				<string>2.4.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
